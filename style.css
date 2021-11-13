@@ -1,0 +1,15 @@
+h1 {
+	color: green;
+	font: sans-serif;
+	cursor: pointer;
+  font-size: 100px;
+}
+
+#welcomeText {
+  color: red
+}
+
+h1:hover {
+	text-decoration: underline;
+	color: red;
+}
