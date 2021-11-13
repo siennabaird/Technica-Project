@@ -1,15 +1,20 @@
 h1 {
-	color: green;
+	color: black;
+  text-align: center;
 	font: sans-serif;
 	cursor: pointer;
-  font-size: 100px;
+  font-size: 80px;
 }
 
+
+
+/*
 #welcomeText {
   color: red
 }
 
 h1:hover {
-	text-decoration: underline;
+	// text-decoration: underline;
 	color: red;
 }
+*/

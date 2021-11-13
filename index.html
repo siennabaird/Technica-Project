@@ -6,9 +6,45 @@
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-  <h1>Hey!</h1>
+  <h1>Welcome to RepU</h1>
   <p id="welcomeText">Welcome to Technica!</p>
-  <p "newUserMessage">Would you like to contact a representative?</p>
+
+
+
+<p "newUserMessage">Would you like to contact a representative?</p>
+
+What political issue would you like to contact your representative about?
+  <form>
+    <input type="radio" id="GenderInequality" name="concern" value="Gender Inequality">
+    <label for="GenderInequality">Gender Inequality</label><br>
+    <input type="radio" id="RacialInjustice" name="concern" value="Racial Injustice">
+    <label for="RacialInjustice">Racial Injustice</label><br>
+    <input type="radio" id="LGBTQ+Rights" name="concern" value="LGBTQ+ Rights">
+    <label for="LGBTQ+Rights">LGBTQ+ Rights</label><br>
+    <input type="radio" id="DisabledRights" name="concern" value="Disabled Rights">
+    <label for="DisabledRights">Disabled Rights</label><br>
+    <input type="radio" id="Immigration" name="concern" value="Immigration">
+    <label for="Immigration">Immigration</label><br><br>
+    <input type="submit" value="Submit">
+  </form>
+
+  <br>
+  <br>
+
+  <!––take user input for message to reps––>
+  <form>
+      Please enter your...
+      <br>
+      <br>
+         Full Name:<br> <input type="text" name="name">
+         <br>
+         <br>
+         Zip Code:<br> <input type="text" name="zipCode">
+         <br>
+  </form>
+
+
+
   <script type="text/javascript" src="script.js"></script>
 </body>
 </html>
