@@ -1,9 +1,13 @@
 h1 {
-	color: black;
   text-align: center;
 	font: sans-serif;
 	cursor: pointer;
   font-size: 80px;
+}
+
+body{
+  background-color: #316869;
+  color: white;
 }
 
 
