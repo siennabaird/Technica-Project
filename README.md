@@ -3,8 +3,8 @@ Overall Idea:
 - Creating a platform to supply legal resources to minority communities to rebuild a connection between the government and minorites
 
 What it Does:
-- gives people information about their representatives/providing resources to contact them about different legislation or concerns 
-- sets up/notifies people of political events happening locally
+- Gives people information about their representatives and provides resources to contact them about different legislation or concerns 
+- Ability to set up and notify people of political events in their region
 
 How it was Built:
 - Languages: HTML/CSS, & JavaScript
